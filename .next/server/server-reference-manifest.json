@@ -1,0 +1,38 @@
+{
+  "node": {
+    "5df0285ca1421b4aff178fabe22a0d1be5cb65de": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fuser%2FWebstormProjects%2Freact-server%2Fapp%2Faction.tsx%22%2C%5B%22fetchAnime%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "a0aac67f48f9843d2891c4927dfdc72d21f32214": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fuser%2FWebstormProjects%2Freact-server%2Fapp%2Faction.tsx%22%2C%5B%22fetchAnime%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "0eb6f53a631b9fa58288b2e5dd5b4edeeed57cc9": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fuser%2FWebstormProjects%2Freact-server%2Fapp%2Faction.tsx%22%2C%5B%22fetchAnime%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "1e7800d7ec33060dcc480eae16fc9e0fc2021de4": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fuser%2FWebstormProjects%2Freact-server%2Fapp%2Faction.tsx%22%2C%5B%22fetchAnime%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "hc+8vDlD4rdL6YO6UhKNi/ZFb8vaN0QnXTQRY8kvMRg="
+}
